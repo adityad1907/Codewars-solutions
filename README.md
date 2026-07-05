@@ -79,7 +79,3 @@ The repository is updated regularly as new Codewars challenges are completed.
 This is primarily a personal learning repository. Suggestions for improving code quality, readability, or efficiency are always welcome.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License.
