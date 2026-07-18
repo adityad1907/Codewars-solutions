@@ -1,0 +1,15 @@
+int opposite(int number) 
+{
+  int op = number * -1;
+  if(number>0){
+    return op;
+  }
+  else if(number == 0){
+    return 0;
+  }
+  else
+    {
+    return op; 
+  }
+​
+}
