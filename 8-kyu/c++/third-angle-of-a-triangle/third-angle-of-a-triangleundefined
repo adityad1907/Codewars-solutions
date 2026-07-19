@@ -1,0 +1,10 @@
+class Triangle {
+​
+public:
+​
+    static int otherAngle(int a, int b) {
+      int c;
+      c = 180 - (a + b);
+        return c;
+    }
+};
