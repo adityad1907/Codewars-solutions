@@ -1,0 +1,16 @@
+#include<cmath>
+int twice_as_old(int dad, int son) {
+  int result;
+  result = dad - (son * 2);
+  
+  if(result < 0){
+    result = abs(result);
+  }
+  else if(result>0){
+    result = result;
+  }
+  else{
+    return result;
+  }
+  return result;
+}
