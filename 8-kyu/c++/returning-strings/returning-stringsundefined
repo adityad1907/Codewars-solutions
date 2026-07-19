@@ -1,0 +1,6 @@
+#include <string>
+​
+std::string greet(std::string name)
+{
+    return "Hello, " + name + " how are you doing today?";
+}
